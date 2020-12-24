@@ -1,0 +1,37 @@
+div a:hover {
+        color: lightblue;
+        font-weight: bold;
+        }
+
+article a:active    {
+                    color: red;
+                    font-style: italic;
+                    }
+
+span a:visited  {
+                color: yellow;
+                }
+
+.navmenu li {
+            display: inline;
+            list-style-type: none;
+            margin: 5px;
+            background-color: darkblue;
+            }
+
+li:first-child  {
+                text-align: left;
+                }
+
+.currentpage:focus      {
+                        background-color: cadetblue;
+                        }
+
+
+.hovereffect:hover  {
+                    background-color: lightblue;
+                    }
+
+.border:focus   {
+                border: solid aqua;
+                }
